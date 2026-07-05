@@ -1,0 +1,5 @@
+interface:
+  display_name: "tysPPT"
+  short_description: "Create dynamic PPT decks for college students."
+  brand_color: "#246BFE"
+  default_prompt: "Use $tysppt to create a dynamic course report deck for a college student."
